@@ -13,3 +13,21 @@ if (choice >= 9) {
     console.log("scissors");
 }
 
+
+let pick = prompt("Pick rock, paper, or scissors?")
+
+function getHumanChoice(pick) {
+    
+}
+
+
+if (pick === "rock") {
+    console.log("rock");
+}   else if (pick === "paper") {
+    console.log("paper");
+}   else  {
+   (pick === "scissors")
+    console.log("scissors");
+}
+
+
